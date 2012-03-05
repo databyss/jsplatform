@@ -13,8 +13,6 @@ clickDebug += '<tr><td>map value</td><td>()</td></tr></table>';
 // http://www.hongkiat.com/blog/html5-web-games/
 // http://dev.opera.com/articles/view/html-5-canvas-the-basics/
 // http://html5.litten.com/moving-shapes-on-the-html5-canvas-with-the-keyboard/
-// http://www.webmonkey.com/2010/02/make_oop_classes_in_javascript/
-// http://www.phpied.com/3-ways-to-define-a-javascript-class/
 
 var inputKeys = { // defines key codes used for input
 	up: 87, // W
